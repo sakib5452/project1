@@ -1,1 +1,3 @@
-printIn("hello world")
+fun main(){
+    hello world
+}
